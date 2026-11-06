@@ -1,0 +1,19 @@
+{
+  "source_archive": "wine+quality (1).zip",
+  "used_file": "winequality-red.csv",
+  "source_sha256": "4a402cf041b025d4566d954c3b9ba8635a3a8a01e039005d97d6a710278cf05e",
+  "execution_environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "method": "Sequential execution in a fresh IPython shell; outputs and figures captured."
+  },
+  "seed_sampling": 42,
+  "seed_consistency": 43,
+  "seed_artificial_outliers": 44,
+  "formal_hypotheses": 3,
+  "main_population_rows": 1599,
+  "formal_test_unique_rows": 1359
+}
