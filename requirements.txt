@@ -1,5 +1,7 @@
 numpy
 pandas
-matplotlib>=3.5
 scipy
+matplotlib>=3.10
+scikit-learn
+threadpoolctl
 ipython
